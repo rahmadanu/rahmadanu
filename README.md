@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahmadanusadewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmadanusadewa" height="30" width="40" /></a>
-<a href="https://instagram.com/rdanusadewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rdanusadewa" height="30" width="40" /></a>
+<a href="https://instagram.com/rahmadanu_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahmadanu_s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNrOuF6KWVazPyTN5zbeJ6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahma danu sadewa" height="30" width="40" /></a>
 </p>
 
