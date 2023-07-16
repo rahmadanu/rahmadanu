@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmadanu&label=Profile%20views&color=0e75b6&style=flat" alt="rahmadanu" /> </p>
 
-- 🌱 I’m currently doing an internship at **Suitmedia Digital Agency**
-
 - 📫 How to reach me **sadewarahmadanu@gmail.com**
 
 - ⚡ Fun fact **I'm a night owl**
