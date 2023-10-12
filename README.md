@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmadanu&label=Profile%20views&color=0e75b6&style=flat" alt="rahmadanu" /> </p>
 
 - 📫 How to reach me **sadewarahmadanu@gmail.com**
+- 🪴 I'm currently learning **Flutter Development**
+- ❓ Ask me anything about **Android Development**
 
 
 <h3 align="left">Connect with me:</h3>
