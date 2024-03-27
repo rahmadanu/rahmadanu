@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rahma Danu Sadewa</h1>
+<h1 align="center">Hi 👋, I'm Dan</h1>
 <h3 align="center">A student & passionate android developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmadanu&label=Profile%20views&color=0e75b6&style=flat" alt="rahmadanu" /> </p>
 
 - 📫 How to reach me **sadewarahmadanu@gmail.com**
 - 🪴 I'm currently learning **Flutter Development**
@@ -12,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/rahmadanusadewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmadanusadewa" height="30" width="40" /></a>
 <a href="https://instagram.com/rahmadanu_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahmadanu_s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCNrOuF6KWVazPyTN5zbeJ6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahma danu sadewa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
